@@ -1,7 +1,12 @@
 # Hi there 👋 I'm Osmar.
 
 ## About Me.
-BackEnd developer, 30 year old, father of Lucas, almost 10 years working with technologies like PHP (Laravel and Lumen), C# with ASP.NET CORE 5, GoLang and NodeJs with TypeScript, developed microservices and responsible for maintaining the legacies for companies I've worked for.
+BackEnd developer, 30 year old, father of Lucas, almost 10 years developed microservices and responsible for maintaining the legacies for companies I've worked for.
+
+working with technologies like:
+- PHP (Laravel and Lumen)
+- C# with ASP.NET CORE 5
+- NodeJs with TypeScript
 
 - 🌱 I'm currently learning Java and going deeper on my Object Orientation knowledge.
 - 📫 How to reach me: osmarvillalbagonzalez@gmail.com
